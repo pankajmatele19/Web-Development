@@ -1,0 +1,34 @@
+
+body {
+    background-image: url("ph4.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+img {
+    height: 120px;
+}
+p {
+    font-style: oblique;
+    color: white;
+}
+
+ul h2 {
+    color: darkgrey;
+    
+}
+ul li {
+    color:lavender;
+    list-style:decimal;
+}
+#title {
+    color: ivory;
+    text-align: center;
+    
+}
+
+.info {
+    color: white;
+    width: 20cm;
+    
+
+}
